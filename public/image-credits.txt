@@ -1,0 +1,28 @@
+MILLENIAL EVENTS PRESENTATION: IMAGE SOURCES AND GENERATION PROMPT
+
+OPENING SLIDE
+Saved asset: /Users/manojcn/Documents/Codex/2026-10-24/i-am-going-to-founders-meetup/outputs/founder-lab/public/images/event-opening.webp
+Source: https://millenniaevents.in/images/bengaluru/guests-group.webp
+Context: Guests at a past event, from the organiser's official website.
+Presentation uses a CSS crop. The source photograph is unchanged.
+
+BUSINESS CHANGE SLIDE
+Saved asset: /Users/manojcn/Documents/Codex/2026-10-24/i-am-going-to-founders-meetup/outputs/founder-lab/public/images/coffee-packaging.webp
+Created with the built-in image_gen tool, then converted to WebP for the app.
+This is an illustration of the fictional case, not a real named business.
+
+Final generation prompt:
+Use case: product-mockup. Asset type: an illustrative photograph for a fictional coffee subscription business case in a presentation. Create one polished editorial product photograph of a sturdy open kraft cardboard shipping box containing two unbranded coffee pouches, protective paper cushioning, and a small ceramic coffee cup on a warm cream tabletop. The image illustrates improved packaging and careful fulfilment. Natural window light, realistic paper and coffee textures, calm muted greens and warm neutral browns that fit a cream-and-forest-green business presentation. A clean landscape 3:2 composition, subject centred with comfortable margins so the image can crop to a square beside slide text. No people, logos, labels, lettering, statistics, watermark or charts. This is a fictional illustration, not a photograph of a real named company.
+
+FINAL SLIDE
+Saved asset: /Users/manojcn/Documents/Codex/2026-10-24/i-am-going-to-founders-meetup/outputs/founder-lab/public/images/event-conversations.webp
+Source: https://millenniaevents.in/images/mandya/conversations.webp
+Context: Guests in conversation at a past event, from the organiser's website.
+Presentation uses a CSS crop. The source photograph is unchanged.
+
+FINAL SLIDE'S EVENT DESCRIPTION
+Source: https://millenniaevents.in/
+The official site describes curated introductions, founder spotlights,
+industry conversations and investor connects. The slide summarises these
+as opportunities for businesses and investors to meet and explore a fit.
+The presentation heading uses "Millenial Events" as requested by the user.
